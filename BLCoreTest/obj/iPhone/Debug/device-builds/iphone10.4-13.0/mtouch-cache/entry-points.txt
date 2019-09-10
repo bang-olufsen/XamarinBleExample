@@ -1,0 +1,27 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/patrickahrentlov/Projects/XamarinBleExample/BLCoreTest/obj/iPhone/Debug/device-builds/iphone10.4-13.0/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/patrickahrentlov/Projects/XamarinBleExample/BLCoreTest/obj/iPhone/Debug/device-builds/iphone10.4-13.0/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/patrickahrentlov/Projects/XamarinBleExample/BLCoreTest/obj/iPhone/Debug/device-builds/iphone10.4-13.0/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/patrickahrentlov/Projects/XamarinBleExample/BLCoreTest/obj/iPhone/Debug/device-builds/iphone10.4-13.0/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/patrickahrentlov/Projects/XamarinBleExample/BLCoreTest/obj/iPhone/Debug/device-builds/iphone10.4-13.0/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/patrickahrentlov/Projects/XamarinBleExample/BLCoreTest/obj/iPhone/Debug/device-builds/iphone10.4-13.0/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/patrickahrentlov/Projects/XamarinBleExample/BLCoreTest/obj/iPhone/Debug/device-builds/iphone10.4-13.0/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/patrickahrentlov/Projects/XamarinBleExample/BLCoreTest/obj/iPhone/Debug/device-builds/iphone10.4-13.0/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/patrickahrentlov/Projects/XamarinBleExample/BLCoreTest/obj/iPhone/Debug/device-builds/iphone10.4-13.0/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/patrickahrentlov/Projects/XamarinBleExample/BLCoreTest/obj/iPhone/Debug/device-builds/iphone10.4-13.0/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/patrickahrentlov/Projects/XamarinBleExample/BLCoreTest/obj/iPhone/Debug/device-builds/iphone10.4-13.0/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/patrickahrentlov/Projects/XamarinBleExample/BLCoreTest/obj/iPhone/Debug/device-builds/iphone10.4-13.0/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/patrickahrentlov/Projects/XamarinBleExample/BLCoreTest/obj/iPhone/Debug/device-builds/iphone10.4-13.0/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=mono_pmip
